@@ -16,7 +16,7 @@ The REST API documentation can be found on [docs.testapi.com](https://docs.testA
 
 ```sh
 # install from PyPI
-pip install --pre testAPI
+pip install testAPI
 ```
 
 ## Usage
