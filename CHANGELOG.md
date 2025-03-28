@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.1 (2025-03-28)
+
+Full Changelog: [v1.0.0...v1.0.1](https://github.com/nptakudo/stainless-api-sdk/compare/v1.0.0...v1.0.1)
+
+### Chores
+
+* fix typos ([#5](https://github.com/nptakudo/stainless-api-sdk/issues/5)) ([eb96a57](https://github.com/nptakudo/stainless-api-sdk/commit/eb96a57bb33082fd71a99662444c8c0d717e8042))
+
 ## 1.0.0 (2025-03-25)
 
 Full Changelog: [v0.0.1-alpha.0...v1.0.0](https://github.com/nptakudo/stainless-api-sdk/compare/v0.0.1-alpha.0...v1.0.0)
