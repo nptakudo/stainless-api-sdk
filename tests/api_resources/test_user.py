@@ -160,7 +160,6 @@ class TestUser:
         with pytest.raises(ValueError, match=r"Expected a non-empty value for `existing_username` but received ''"):
             client.user.with_raw_response.update(
                 existing_username="",
-                username="",
             )
 
     @pytest.mark.skip()
@@ -462,7 +461,6 @@ class TestAsyncUser:
         with pytest.raises(ValueError, match=r"Expected a non-empty value for `existing_username` but received ''"):
             await async_client.user.with_raw_response.update(
                 existing_username="",
-                username="",
             )
 
     @pytest.mark.skip()
